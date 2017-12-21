@@ -5,7 +5,8 @@ package bwei.com.gouwc.eventbus;
  */
 
 public class MessageEvent {
-    private boolean checked;
+    private
+    boolean checked;
 
     public boolean isChecked() {
         return checked;

@@ -8,6 +8,8 @@ public class PriceAndCountEvent {
     private int price;
     private int count;
 
+
+
     public int getPrice() {
         return price;
     }
